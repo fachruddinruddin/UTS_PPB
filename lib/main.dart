@@ -29,9 +29,9 @@ class ComputerStorePage extends StatefulWidget {
 
 class _ComputerStorePageState extends State<ComputerStorePage> {
   final List<Product> products = [
-    Product(name: 'Laptop', price: 25000000),
-    Product(name: 'Mouse', price: 1250000),
-    Product(name: 'Keyboard', price: 1500000),
+    Product(name: 'Laptop', price: 15000000),
+    Product(name: 'Mouse', price: 100000),
+    Product(name: 'Keyboard', price: 500000),
     Product(name: 'Monitor', price: 5000000),
     Product(name: 'Printer', price: 2200000),
   ];
